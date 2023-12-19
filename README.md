@@ -31,4 +31,10 @@ _Melhoria 1, Melhoria 2_
 ```javascript
 function soma(a, b){
     return a+b
-} ```
+}
+
+## Lista de tarefas
+- [x] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistemas de bónus
+- [x] CSS do rodapé
