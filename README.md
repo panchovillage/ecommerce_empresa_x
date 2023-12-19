@@ -12,3 +12,7 @@ _Melhoria 1, Melhoria 2_
 * HTML
 * CSS
 * Java
+### Lista de funcionalidade
+1. Area de membros
+2. Integração
+3. Bonus
