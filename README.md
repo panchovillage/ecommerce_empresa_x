@@ -14,5 +14,7 @@ _Melhoria 1, Melhoria 2_
 * Java
 ### Lista de funcionalidade
 1. Area de membros
+    1. membro 1
+    2. membro 2
 2. Integração
 3. Bonus
