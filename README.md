@@ -22,3 +22,13 @@ _Melhoria 1, Melhoria 2_
 
 ### Imagem local
 ![Logo do python](img/Python-logo-notext.svg.png)
+
+### links
+[Google](https://www.google.com)
+
+### Código da função soma
+
+````javascript
+function soma(a, b){
+    return a+b
+}´´´
