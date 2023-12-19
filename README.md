@@ -5,3 +5,5 @@
 Checkout, Tela de Produto, Catáalogo, Home com banner
 
 
+###### Melhorias do projeto
+Melhoria 1, Melhoria 2
