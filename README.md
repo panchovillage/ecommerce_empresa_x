@@ -28,7 +28,7 @@ _Melhoria 1, Melhoria 2_
 
 ### Código da função soma
 
-````javascript
+```javascript
 function soma(a, b){
     return a+b
 }´´´
