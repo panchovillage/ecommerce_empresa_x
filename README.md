@@ -18,3 +18,7 @@ _Melhoria 1, Melhoria 2_
     2. membro 2
 2. Integração
 3. Bonus
+
+
+### Imagem local
+![Logo do python](img/python.png)
