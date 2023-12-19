@@ -21,4 +21,4 @@ _Melhoria 1, Melhoria 2_
 
 
 ### Imagem local
-![Logo do python](img/python.png)
+![Logo do python](img/Python-logo-notext.svg.png)
